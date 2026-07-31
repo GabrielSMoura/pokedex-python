@@ -4,9 +4,7 @@ Uma aplicação desenvolvida em **Python** utilizando a **PokéAPI** para consul
 
 ## 📸 Demonstração
 
-> Adicione o print abaixo na pasta `assets` do projeto e altere o caminho se necessário.
-
-![Pokédex](assets/pokedex.png)
+![Pokédex](image.png)
 
 ## ✨ Funcionalidades
 
